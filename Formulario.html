@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de backup</title>
+    <link rel="stylesheet" href="Css/EstiloForm.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Digite o local de Origem e destino para realizar o backup:</h2>
+        
+            <div class="form-group">
+                <label for="origem">Local de origem:</label>
+                <input type="text" id="origem" name="origem" required>
+            </div>
+
+            <div class="form-group">
+                <label for="destino">Local de destino:</label>
+                <input type="text" id="destino" name="destino" required>
+            </div>
+
+            <button onclick = 'minhaFuncao();'>Enviar</button>
+        
+    </div>
+
+    <div class="backups">
+        <p>BACKUP</p>
+    </div>
+
+    <script>
+        // Definindo o valor para o campo "Local de origem"
+        document.getElementById('origem').value = ''; // Defina o valor desejado aqui
+
+        // Definindo o valor para o campo "Local de destino"
+        document.getElementById('destino').value = ''; // Defina o valor desejado aqui
+
+        // Definindo a função que será chamada quando o botão for clicado
+        function minhaFuncao() {
+            var origem = document.getElementById('origem').value;
+            var destino = document.getElementById('destino').value;
+            var uri = 'http://192.168.18.18:5074/backup/' + encodeURIComponent(origem) + '/' + encodeURIComponent(destino);
+            alert(uri);
+            window.location.href = uri;
+        }
+
+    </script>
+</body>
+</html>
