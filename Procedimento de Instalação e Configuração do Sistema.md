@@ -1,21 +1,20 @@
-1. Criação da Máquina Virtual:
-    • Comece criando uma máquina virtual com o sistema operacional Ubuntu Server.
-   ![criação da maquina virtual](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/e175bd10-6e16-47f4-bef9-b82523ae2379)
+                                                CRIAÇÃO DA MÁQUINA VIRTUAL
+                                                
+• Comece criando uma máquina virtual NO VIRTUAL BOX com o sistema operacional Ubuntu Server ou Debian Server, aqui usaremos o Ubuntu.
 
-3. Preparando o Ambiente:
-    • Após instalar o Ubuntu Server, crie uma pasta onde o projeto será armazenado.
+    ![criação da maquina virtual](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/e175bd10-6e16-47f4-bef9-b82523ae2379)
+
+• Após instalar o Ubuntu Server, crie uma pasta onde o projeto será armazenado.
  
-![preparando o ambiente](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/95ed61f7-314f-41dd-9da5-4d085010c80e)
+    ![preparando o ambiente](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/95ed61f7-314f-41dd-9da5-4d085010c80e)
 
-4. Configurações Avançadas:
-    • Instale o serviço DotNet na máquina.
+• Instale o serviço DotNet na máquina.
 
- ![configuração avançada](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/e24c8c3e-fa09-4abd-a634-f2c3d451a0c9)
+    ![configuração avançada](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/e24c8c3e-fa09-4abd-a634-f2c3d451a0c9)
 
-5. Instalação de um Projeto no Ubuntu Server:
-    • Crie um novo projeto para o seu aplicativo.
+• Crie um novo projeto para o seu aplicativo.
    
-![criação do projeto](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/aa04e34c-5211-4dd9-bcc7-b26e750a58cf)
+    ![criação do projeto](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/aa04e34c-5211-4dd9-bcc7-b26e750a58cf)
 
 6. Editando o Arquivo de Configuração:
     • Dentro da pasta do projeto, localize e edite o arquivo de configuração.
