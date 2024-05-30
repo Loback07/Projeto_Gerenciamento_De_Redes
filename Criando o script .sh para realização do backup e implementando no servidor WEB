@@ -6,21 +6,6 @@ sugeriu para realização do backup, se não existir a pasta o script criará au
 
 
 #!/bin/bash
-##########################################################################
-#         Backup - Realiza o Bakup automaticamente apos o usuário        #
-#	   informar o diretório de origem e o destino do Backup                #
-# Nome: Backup.sh   				    		                                     #
-#									                                                       #
-# Autor: Thiago Loback				    			                                 #
-# Data: 12/03/2024							                                         #
-#									                                                       #
-# Descrição: O script Realiza o Bakup automaticamente apos o usuário	   #
-#   informar o diretório de origem e o destino do Backup e nome          #
-#	da pasta que será feita o backup.                                      #
-#                                                                        #
-# Uso: via linha de comando no terminal					                         #
-#									                                                       #
-##########################################################################
 
 # Defina o diretório de origem e destino
 diretorio="$1"
