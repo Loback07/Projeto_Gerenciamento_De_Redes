@@ -1,5 +1,6 @@
                                                 CRIAÇÃO DA MÁQUINA VIRTUAL
                                                 
+
 • Comece criando uma máquina virtual NO VIRTUAL BOX com o sistema operacional Ubuntu Server ou Debian Server, aqui usaremos o Ubuntu.
 
 ![criação da maquina virtual](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/e175bd10-6e16-47f4-bef9-b82523ae2379)
@@ -12,12 +13,20 @@
 
 ![configuração avançada](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/e24c8c3e-fa09-4abd-a634-f2c3d451a0c9)
 
-• Crie um novo projeto para o seu aplicativo.
+• Crie um novo projeto em DotNet para armazenar seu código.
    
-    ![criação do projeto](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/aa04e34c-5211-4dd9-bcc7-b26e750a58cf)
+![criação do projeto](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/aa04e34c-5211-4dd9-bcc7-b26e750a58cf)
 
-6. Editando o Arquivo de Configuração:
-    • Dentro da pasta do projeto, localize e edite o arquivo de configuração.
+• Após a criação do projeto DotNet será criado uma estrutura de pastas e arquivos que devem ser configurado para o funcionamento da aplicação que será criado.
+
+![image](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/73440532-0f5d-4d69-8898-7cae42977c4b)
+
+
+
+                                           Configurando os arquivos nescessarios para aplicação
+
+
+• Dentro da pasta do projeto, localize e edite o arquivo de configuração com o nome de Program.cs.
 
 ![image](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/f9c7c3ad-c1fc-40f3-865e-4391a546c962)
 
