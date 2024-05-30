@@ -2,15 +2,15 @@
                                                 
 • Comece criando uma máquina virtual NO VIRTUAL BOX com o sistema operacional Ubuntu Server ou Debian Server, aqui usaremos o Ubuntu.
 
-    ![criação da maquina virtual](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/e175bd10-6e16-47f4-bef9-b82523ae2379)
+![criação da maquina virtual](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/e175bd10-6e16-47f4-bef9-b82523ae2379)
 
 • Após instalar o Ubuntu Server, crie uma pasta onde o projeto será armazenado.
  
-    ![preparando o ambiente](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/95ed61f7-314f-41dd-9da5-4d085010c80e)
+![preparando o ambiente](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/95ed61f7-314f-41dd-9da5-4d085010c80e)
 
 • Instale o serviço DotNet na máquina.
 
-    ![configuração avançada](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/e24c8c3e-fa09-4abd-a634-f2c3d451a0c9)
+![configuração avançada](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/e24c8c3e-fa09-4abd-a634-f2c3d451a0c9)
 
 • Crie um novo projeto para o seu aplicativo.
    
