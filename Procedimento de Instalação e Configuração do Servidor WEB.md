@@ -23,7 +23,7 @@
 
 
 
-                                           Configurando os arquivos nescessarios para aplicação
+                                 Configurando os arquivos nescessarios para aplicação
 
 
 • Dentro da pasta do projeto, localize e edite o arquivo de configuração com o nome de Program.cs.
