@@ -7,7 +7,7 @@ sugeriu para realização do backup, se não existir a pasta o script criará au
 
 #!/bin/bash
 
-# Defina o diretório de origem e destino
+#Defina o diretório de origem e destino
 diretorio="$1"
 destino="$2"
 
