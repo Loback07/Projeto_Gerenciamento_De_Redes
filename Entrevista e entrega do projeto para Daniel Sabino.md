@@ -41,5 +41,14 @@ perfeitamente é muito satisfatório, ver que tive um crescimento na parte da pr
 nesse projeto tive a oportunidade de implemmentar um servidor linux, serviço WEB com o DotNet, scritp feito em Shell script, desenvolver em java script.
 Queria agradecer ão Professor Fabiano Costa Teixeira pelo enpenho e de seu tempo dedicado pra nós ensinar.
 
+# 2.  Luiz Henrique
 
+. Particularmente os projetos de ambos os eixos me ajudaram em amplo conhecimento em relação a servidores e principalmente nos protocolos de redes e shell script, levando mais pro lado pessoal, eu consegui dar uma melhorada no meu html que é algo realmente necessário pra mim, 
+Mais até então eu não tinha familiaridade a shell script, com esse último eixo eu consegui aprender cosias interessantes Até consegui da umas esclarecidas em relação a API, eu tinha muitas dúvidas sobre
 
+# 3. Brandon Hiago
+
+. Este projeto, assim com cada etapa que passamos apresentou diversos desafios, todos sendo superados com a ajuda do corpo acadêmico da puc. Particularmente neste projeto consegui vencer uma barreira bem importante que seria o desenvolvido de atividades no linux, pude conhecer um pouco mais sobre outras plataformas de solução em cloud, mesmo não sendo a optante para desenvolver do trabalho, mas conseguimos chegar no que realmente importa que é a conclusão do projeto. Creio que meus colegas passaram por dificuldades como a minha, a falta de tempo no nosso cotidiano sendo o mais preocupante, porém conseguimos ultrapassar todas as barreiras impostas.
+Referente à essa etapa em específico, gostaria de ressaltar que foi de grande aproveitamento, principalmente em minha área de atuação pois consegui levar para o meu dia a dia uma visão completamente diferente da que possuía com relação a automatização de diversas atividades e melhoria no que hoje já está implementado. Não pude atuar de forma efetiva no meu serviço, fazendo alguma alteração em grande escala, porém essa mudança na perspectiva já foi de grande valia, espero poder colocar em prática muita coisa que aprendi no decorrer deste semestre. 
+
+# 4. 
