@@ -1,9 +1,13 @@
 ![WhatsApp Image 2024-06-01 at 08 30 28](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/325559c9-7dc0-47d2-be95-82799306c77b)
 
 Nome: Daniel Ricardo Sabino
+
 Idade: 35
+
 Cargo: Técnico de Informáatica
+
 Experiencia na área: 15 anos
+
 
 Em um de muitas tarefas do técnico está a responsabilidade realizar e verificar o Backup que é um porcedimento muito importande da área de TI e de uma empresa, e essa tarefa gerava muito trabalho
 e muitas abas e telas abertas para realização do processo. Com isso oferecemos uma solução para ostimizar o seu trabalho com esse processo, juntariamos tudo em uma tela somente atraves do navegador.
