@@ -1,17 +1,17 @@
 #!/bin/bash
 ##########################################################################
-#         Backup - Realiza o Bakup automaticamente apos o usuÃ¡rio       #
-#	   informar o diretÃ³rio de origem e o destino do Backup         #
-# Nome: Backup.sh   				    		         #
-#									 #
-# Autor: Thiago Loback				    			 #
-# Data: 12/03/2024							 #
-#									 #
-# DescriÃ§Ã£o: O script Realiza o Bakup automaticamente apos o usuÃ¡rio	 #
-#   informar o diretÃ³rio de origem e o destino do Backup		 #
-#									 #
-# Uso: via linha de comando no terminal					 #
-#									 #
+#         Backup - Realiza o Bakup automaticamente apos o usuário        #
+#	   informar o diretório de origem e o destino do Backup              #
+# Nome: Backup.sh   				    		                         #
+#									                                     #
+# Autor: Thiago Loback				    			                     #
+# Data: 12/03/2024							                             #
+#									                                     #
+# Descrição: O script Realiza o Bakup automaticamente apos o usuário	 #
+#   informar o diretório de origem e o destino do Backup		         #
+#									                                     #
+# Uso: via linha de comando no terminal					                 #
+#									                                     #
 ##########################################################################
 
 #!/bin/bash
