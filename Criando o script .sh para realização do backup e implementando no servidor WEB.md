@@ -4,37 +4,9 @@
 nesse código foi criado 2 variaveis para receber o caminho de origem e de destino digitado pelo usuário, e com isso o script irá verificar se existe uma pasta que o usuário
 sugeriu para realização do backup, se não existir a pasta o script criará automaticamente e dará as permissões nessessarias e realizará o backup.
 
+![script](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/0b3da63e-d979-4024-94b1-1049d3c0106b)
 
-#!/bin/bash
 
-* Defina o diretório de origem e destino
-
-diretorio="$1"
-destino="$2"
-
-# Verifique se o diretório de origem existe
-if [ ! -d "$diretorio" ]; then
-    echo "O diretório de origem não existe."
-    exit 1
-fi
-
-# Verifique se o diretório de destino existe, se não, crie-o
-if [ ! -d "$destino" ]; then
-    echo "O diretório de destino não existe. Criando..."
-    mkdir -p "$destino"
-    chmod 777 "$destino"
-fi
-
-# Faça o backup copiando os arquivos de origem para o destino
-cp -r -v -f "$diretorio"/* "$destino"
-
-# Verifique se a cópia foi bem-sucedida
-if [ $? -eq 0 ]; then
-    echo "Backup concluído com sucesso!"
-else
-    echo "Ocorreu um erro durante o backup."
-    exit 1
-fi
 
                                             IMPLEMENTANDO O SCRITP.SH NO SERVIDOR WEB
 
