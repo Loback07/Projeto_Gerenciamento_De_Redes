@@ -4,12 +4,12 @@ Nome: Daniel Ricardo Sabino
 
 Idade: 35
 
-Cargo: Técnico de Informáatica
+Cargo: Técnico de Informática
 
 Experiencia na área: 15 anos
 
 
-Em um de muitas tarefas do técnico está a responsabilidade realizar e verificar o Backup que é um porcedimento muito importande da área de TI e de uma empresa, e essa tarefa gerava muito trabalho e muitas abas e telas abertas para realização do processo. Com isso oferecemos uma solução para ostimizar o seu trabalho com esse processo, juntariamos tudo em uma tela somente atraves do navegador. Apos uma pequena entrevista para saber o que o usuário nessecitava começamos o projeto.
+Em um de muitas tarefas do técnico está a responsabilidade realizar e verificar o Backup que é um procedimento muito importande da área de TI e de uma empresa, e essa tarefa gerava muito trabalho e muitas abas e telas abertas para realização do processo. Com isso oferecemos uma solução para ostimizar o seu trabalho com esse processo, juntaríamos tudo em uma tela somente atraves do navegador. Apos uma pequena entrevista para saber o que o usuário necessitava começamos o projeto.
 
 # 1. qual sua atividade para realização do backup?
 
