@@ -47,4 +47,31 @@ Altere as linhas onde se encontra "LOCALHOST" e deixa em branco seguido da porta
 
 ![image](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/3c798198-59ae-456c-b75e-758ecc46fc42)
 
-Com isso, você instalou e configurou um Servidor WEB para implementação da aplicação do projeto de Backup. 
+Depois de todos arquivos html e css prontos, vamos instalar um serviço apache para que possamos implementar nossos arquivos e acessar via navegador 
+
+* Primeiro atualizamos o repositório do sistema
+
+ ![image](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/4daa8d13-a779-4e62-972b-77afa05210d8)
+
+* Agora instalamos o apache
+
+![image](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/78991580-c3c0-4310-833f-378e6224fb8e)
+ 
+* Com o apache instalado, vamos adiciona-lo na regra do firewall
+
+![image](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/0b039601-1eda-4816-a1dc-238f529d6e31)
+
+* Agora conferimos se o serviço foi adicionado corretamente a regra do Firewall
+
+![image](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/8e61f71b-30bd-45b0-b177-299e16e759e9)
+
+* Esse será o resultado do comando
+
+![image](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/a2da1522-f790-4edd-a471-a6f4f4b0c34f)
+
+* Feito isso agora é só copiar os arquivos html e css para dentro do servidor no diretório correto
+
+![image](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/6e09a121-5b28-4bc5-bd12-1fcd6d0e1649)
+
+
+Com isso, você instalou e configurou um Servidor WEB com serviço DotNet e Apache para implementação da aplicação do projeto de Backup. 
