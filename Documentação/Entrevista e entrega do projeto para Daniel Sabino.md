@@ -32,7 +32,6 @@ Tem que ser uma coisa simples e objetiva e que qualquer pessoa do setor consiga 
 
 Gostaria de expressar meu sincero agradecimento à equipe pelo excelente trabalho realizado no projeto. O resultado superou minhas expectativas, destacando-se pela objetividade e simplicidade de uso. A ausência de complicações e a maior rapidez na realização do backup são aspectos que merecem elogios.
 Agradeço imensamente o empenho da equipe em otimizar essa tarefa. Este projeto certamente facilitará muito o meu dia a dia. Parabéns a todos pelo sucesso alcançado!
-![image](https://github.com/Loback07/Projeto_Gerenciamento_De_Redes/assets/167694546/c8311062-c7e8-4c9d-9946-aaad752cb7d7)
 
 
                                              QUAL O IMPACTO QUE O DESENVOLVIMENTO DO PROJETO GEROU
